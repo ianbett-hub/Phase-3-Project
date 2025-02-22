@@ -191,5 +191,5 @@ Find a model that balances **recall** (identifying actual churners) and **precis
 - **Scikit-Learn (Logistic Regression, Decision Tree, Random Forest)** 
 - **GridSearchCV**
 - **StandardScaler, LabelEncoder** 
-- **SMOTE, RandomOverSampler, RandomUnderSampler **  
+- **SMOTE, RandomOverSampler, RandomUnderSampler**  
 - **Metrics (Accuracy, Precision, Recall, F1-Score, ROC Curve, AUC Score,classification_report, Confusion Matrix)** 
